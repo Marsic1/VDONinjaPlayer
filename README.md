@@ -35,6 +35,16 @@ The app pulls every performance lever Windows and WebView2 offer:
 - 🌙 Dark mode title bar
 - 🗂️ Simple JSON configuration (`config.json`) — no registry, no installer
 
+## Download
+
+Grab the latest binary from the [releases page](https://github.com/Marsic1/VDONinjaPlayer/releases), or use the always-latest direct link:
+
+```
+https://github.com/Marsic1/VDONinjaPlayer/releases/latest/download/VDONinjaPlayer.exe
+```
+
+The executable is not code-signed, so Windows SmartScreen may show a warning on first run — choose **More info → Run anyway**. On first launch the app asks for your VDO.Ninja URL and stores it in `config.json` next to the executable.
+
 ## Getting started
 
 ### Requirements
