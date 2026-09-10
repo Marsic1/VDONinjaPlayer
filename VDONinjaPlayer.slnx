@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VDONinjaPlayer.vcxproj" Id="ecf0a1c4-2937-4cbe-a758-3a434fb98d47" />
+</Solution>

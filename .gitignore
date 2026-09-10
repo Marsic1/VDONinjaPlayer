@@ -1,0 +1,34 @@
+# Visual Studio cache/settings (contains local machine paths)
+.vs/
+
+# Build outputs
+x64/
+x86/
+Debug/
+Release/
+VDONinjaPlayer/x64/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.res
+*.exe
+*.lib
+*.dll
+*.tlog
+*.recipe
+*.log
+*.aps
+
+# NuGet packages (restored via packages.config)
+packages/
+
+# User-specific project settings
+*.user
+*.suo
+
+# Local app configuration - contains your private stream URLs, room names and passwords!
+config.json
+
+# Source design asset
+icon.ai
